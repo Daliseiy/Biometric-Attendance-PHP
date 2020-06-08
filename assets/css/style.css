@@ -1,0 +1,8 @@
+body{
+	overflow-x: hidden;
+}
+
+body > .container {
+	padding: 70px 15px 0;
+	
+}
