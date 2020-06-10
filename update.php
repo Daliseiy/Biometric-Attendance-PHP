@@ -66,7 +66,7 @@
             if(!$result){
                 die("Query failed");
             }
-            header("Location:  http://localhost/bio_attendance/admin_index.php");
+            header("Location: admin_index.php");
         }
     ?>
     <div class="col-md-4">
