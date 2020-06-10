@@ -1,5 +1,7 @@
-"config" :{
-    "platform" :{
-        "php": '5.4.7'
+{
+    "config": {
+        "platform": {
+            "php": '5.4.7'
+        }
     }
 }
