@@ -16,10 +16,13 @@ Download Flexcode SDK and also purchase a liscence.  - [Digital Persona 4500](ht
 
 ## Guide
 Start the xampp server with mysql running.
+
 Create a database for the project and Run the SQL queries at databases/bio_app.sql with phpmyadmin.
+
 Add Fingerprint SN and your license details from FlexCode to the device table.
+
 Open app at localhost/kwasu to add students and enroll their fingerprint data.
+
 Ensure your fingerprint is connected to your pc before doing this.
 
 
-###### Readme's are a drag and deep down somewhere, you know i'm right.
